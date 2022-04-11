@@ -10,6 +10,10 @@
 2. Go to your directory where you download the program
 3. Run the program
 
+## In action:
+
+![](https://github.com/nu11secur1ty/w1f1nd3r/blob/main/docs/w1f1nd3r.png)
+
 ```perl
 perl w1f1nd3r.pl
 ```
