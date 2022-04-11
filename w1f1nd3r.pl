@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# by nu11secur1ty
+# by nu11secur1ty 2022
 use strict;
 use warnings;
 use diagnostics;
