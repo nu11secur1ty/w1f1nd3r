@@ -6,9 +6,10 @@
 
 ## Usage
 
-1. Install Perl in your Windows 10, 11 machine [from](https://www.perl.org/get.html#win32)
-2. Go to your dirrectory where you download the program
+1. Install Perl in your Windows 10, 11 machine from
+2. Go to your directory where you download the program
 3. Run the program
+
 ```perl
 perl w1f1nd3r.pl
 ```
